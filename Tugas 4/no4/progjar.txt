@@ -1,0 +1,8 @@
+personal chat = login (auth username password)
+send = (send haekal wayahe)
+inbox = inbox 
+logout = logout
+send file = send_file-nama yg dituju-file (send_file haekal coba.txt)
+group chat = create group ( create_group wacaw)
+	     join group ( join_group 'group token')
+	     leave group ( leave_group 'group token')	
